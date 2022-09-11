@@ -5,6 +5,8 @@ abstract class AppRouteName {
 
   static const profile = "profile";
 
+  static const promo = "promo";
+
   static const category = "category";
 
   static const admin = "admin";
