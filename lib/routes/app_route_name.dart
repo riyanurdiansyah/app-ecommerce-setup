@@ -7,6 +7,10 @@ abstract class AppRouteName {
 
   static const promo = "promo";
 
+  static const signin = "signin";
+
+  static const signup = "signup";
+
   static const category = "category";
 
   static const admin = "admin";
