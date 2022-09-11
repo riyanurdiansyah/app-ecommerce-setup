@@ -1,3 +1,3 @@
-const String baseUrl = 'http://0.0.0.0:8080/api/v1';
+const String baseUrl = "http://192.168.1.103:8080";
 
-const String baseUrlAuth = 'http://0.0.0.0:8080/api/v1/auth';
+const String categoryUrl = "$baseUrl/api/v1/categories";
